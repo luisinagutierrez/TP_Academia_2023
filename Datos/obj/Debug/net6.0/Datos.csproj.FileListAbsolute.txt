@@ -1,0 +1,17 @@
+C:\Users\Usuario\OneDrive\Escritorio\ISI UTN 3ero\Tecnologías en Desarrollo de Software IDE (elec)\TPI Academia\TPI_3K2_TT_Academia\Datos\bin\Debug\net6.0\Datos.deps.json
+C:\Users\Usuario\OneDrive\Escritorio\ISI UTN 3ero\Tecnologías en Desarrollo de Software IDE (elec)\TPI Academia\TPI_3K2_TT_Academia\Datos\bin\Debug\net6.0\Datos.runtimeconfig.json
+C:\Users\Usuario\OneDrive\Escritorio\ISI UTN 3ero\Tecnologías en Desarrollo de Software IDE (elec)\TPI Academia\TPI_3K2_TT_Academia\Datos\bin\Debug\net6.0\Datos.dll
+C:\Users\Usuario\OneDrive\Escritorio\ISI UTN 3ero\Tecnologías en Desarrollo de Software IDE (elec)\TPI Academia\TPI_3K2_TT_Academia\Datos\bin\Debug\net6.0\Datos.pdb
+C:\Users\Usuario\OneDrive\Escritorio\ISI UTN 3ero\Tecnologías en Desarrollo de Software IDE (elec)\TPI Academia\TPI_3K2_TT_Academia\Datos\bin\Debug\net6.0\Entidades.dll
+C:\Users\Usuario\OneDrive\Escritorio\ISI UTN 3ero\Tecnologías en Desarrollo de Software IDE (elec)\TPI Academia\TPI_3K2_TT_Academia\Datos\bin\Debug\net6.0\Entidades.pdb
+C:\Users\Usuario\OneDrive\Escritorio\ISI UTN 3ero\Tecnologías en Desarrollo de Software IDE (elec)\TPI Academia\TPI_3K2_TT_Academia\Datos\obj\Debug\net6.0\Datos.csproj.AssemblyReference.cache
+C:\Users\Usuario\OneDrive\Escritorio\ISI UTN 3ero\Tecnologías en Desarrollo de Software IDE (elec)\TPI Academia\TPI_3K2_TT_Academia\Datos\obj\Debug\net6.0\Datos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\OneDrive\Escritorio\ISI UTN 3ero\Tecnologías en Desarrollo de Software IDE (elec)\TPI Academia\TPI_3K2_TT_Academia\Datos\obj\Debug\net6.0\Datos.AssemblyInfoInputs.cache
+C:\Users\Usuario\OneDrive\Escritorio\ISI UTN 3ero\Tecnologías en Desarrollo de Software IDE (elec)\TPI Academia\TPI_3K2_TT_Academia\Datos\obj\Debug\net6.0\Datos.AssemblyInfo.cs
+C:\Users\Usuario\OneDrive\Escritorio\ISI UTN 3ero\Tecnologías en Desarrollo de Software IDE (elec)\TPI Academia\TPI_3K2_TT_Academia\Datos\obj\Debug\net6.0\Datos.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\OneDrive\Escritorio\ISI UTN 3ero\Tecnologías en Desarrollo de Software IDE (elec)\TPI Academia\TPI_3K2_TT_Academia\Datos\obj\Debug\net6.0\Datos.csproj.CopyComplete
+C:\Users\Usuario\OneDrive\Escritorio\ISI UTN 3ero\Tecnologías en Desarrollo de Software IDE (elec)\TPI Academia\TPI_3K2_TT_Academia\Datos\obj\Debug\net6.0\Datos.dll
+C:\Users\Usuario\OneDrive\Escritorio\ISI UTN 3ero\Tecnologías en Desarrollo de Software IDE (elec)\TPI Academia\TPI_3K2_TT_Academia\Datos\obj\Debug\net6.0\refint\Datos.dll
+C:\Users\Usuario\OneDrive\Escritorio\ISI UTN 3ero\Tecnologías en Desarrollo de Software IDE (elec)\TPI Academia\TPI_3K2_TT_Academia\Datos\obj\Debug\net6.0\Datos.pdb
+C:\Users\Usuario\OneDrive\Escritorio\ISI UTN 3ero\Tecnologías en Desarrollo de Software IDE (elec)\TPI Academia\TPI_3K2_TT_Academia\Datos\obj\Debug\net6.0\Datos.genruntimeconfig.cache
+C:\Users\Usuario\OneDrive\Escritorio\ISI UTN 3ero\Tecnologías en Desarrollo de Software IDE (elec)\TPI Academia\TPI_3K2_TT_Academia\Datos\obj\Debug\net6.0\ref\Datos.dll
